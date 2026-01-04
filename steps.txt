@@ -16,4 +16,10 @@ manual resolve merge conflict
 git commit -> for the merge
 git branch -d 'branch-name'
 
-
+RESTORE
+git restore . -> unstaged changes
+git restore --staged . -> staged -> unstaged
+git reset --soft commit_id -> commited -> staged
+git reset --soft HEAD~2 -> soft reset to 2 commits back
+git reset --hard commit_id -> commited -> delete
+git revert commmit_id -> revert particular commit
