@@ -1,0 +1,19 @@
+BASICS
+git init
+create file
+git add file
+goes to staging area
+git commit -m "Message" -> checkpoint
+git status -> to check 
+git log -> commit log; --oneline -> single line
+
+BRANCHING
+git branch 'branch name'
+git checkout -b branch-name
+...
+git merge branch-name -> from parent branch
+manual resolve merge conflict
+git commit -> for the merge
+git branch -d 'branch-name'
+
+
