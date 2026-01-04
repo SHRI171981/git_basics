@@ -1,2 +1,0 @@
-Day1: Started working with branches
-Day3: Working on the scientist branch
