@@ -5,4 +5,4 @@ Adding more content in file2
 random change in file2
 
 good code
-bad code
+bad code resolved
